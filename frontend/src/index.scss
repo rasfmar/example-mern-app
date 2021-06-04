@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 4em;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+li {
+  list-style-type: none;
+  line-height: 2;
+}
+
+span {
+  margin: 0 1em 0 0;
+}
+
+button, input {
+  border: none;
+  border-radius: 120em;
+}
+
+button {
+  margin: 0 0 0 0.25em;
+  cursor: pointer;
+}
+
+input {
+  background-color: #eee;
+  padding: 0.25em;
+}
+
