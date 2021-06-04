@@ -1,4 +1,6 @@
-# example-mern-app
+## example-mern-app
+![Video of Frontend](https://i.imgur.com/PI8xmrW.gif)
+
 ## What is this?
 An example full-stack MERN application, featuring a RESTful CRUD API using MongoDB, Express, and Node and a React frontend using Sass and React Hooks.
 
