@@ -33,9 +33,6 @@ REACT_APP_API_URI=http://localhost:3001/api/v1/objs
 
 The `api` folder inside of `src` contains `objsHelper.js` which contains helper functions for all of the operations the API provides by default. These are demonstrated in `App.js` inside of `components`.
 
-By default, the frontend should look as follows:
-![Image of Frontend](https://i.imgur.com/Md5bB4P.png)
-
 ### Tests
 TBA
 
