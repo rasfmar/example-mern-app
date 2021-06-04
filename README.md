@@ -2,7 +2,7 @@
 ![Video of Frontend](https://i.imgur.com/PI8xmrW.gif)
 
 ## What is this?
-An example full-stack MERN application, featuring a RESTful CRUD API using MongoDB, Express, and Node and a React frontend using Sass and React Hooks.
+An example full-stack MERN application, featuring a CRUD API using MongoDB, Express, and Node and a React frontend using Sass and React Hooks.
 
 ## Why did you make this?
 I plan on using this to create an NPM package that can be used to generate a basic MERN application boilerplate.
